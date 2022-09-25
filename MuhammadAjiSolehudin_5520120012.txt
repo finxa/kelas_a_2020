@@ -1,0 +1,6 @@
+Nama 	: Muhammad Aji Solehudin
+Universitas	: Suryakancana
+NPM	: 5520120012
+Kelas	: IF-A 2020
+
+ini merupakan tugas 1 Git Mandiri
