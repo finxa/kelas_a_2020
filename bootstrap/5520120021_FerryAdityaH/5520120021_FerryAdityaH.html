@@ -12,11 +12,16 @@
         .teks:hover {
             color: black;
         }
+
+        label {
+            color: white
+        }
     </style>
 </head>
 
 <body>
     <div style="background-color:#111224;">
+
         <!-- Navbar -->
         <nav class="navbar navbar-expand-md bg-primary">
             <div class=" container-fluid">
@@ -123,7 +128,7 @@
             </div>
         </div>
         <!--Table-->
-        <h3 style="padding-left: 100px;color:white ;">List Data Mahasiswa</h3>
+        <h3 style="padding-left: 150px;color:white ;">List Data Mahasiswa</h3>
         <div class="container-md pb-2">
             <table class="table table-active table-primary table-striped text-center">
                 <div class="col-4">
@@ -176,6 +181,31 @@
                 </div>
             </table>
         </div>
+        <h3 style="padding-left: 110px;color:white ;">Form</h3>
+        <div class="container-md pb-2">
+            <div class="row">
+                <div class="col-6 col-3">
+                    <div class="">
+                        <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1"
+                            placeholder="name@example.com">
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-3">
+                <div class="mb-3">
+                    <label " class=" form-label">Alamat Tinggal</label>
+                    <textarea class="form-control" rows="3"></textarea>
+                </div>
+            </div>
+            <div class="col-6 col-3">
+                <div class="mb-3">
+                    <label for="formFile" class="form-label">Foto Data diri</label>
+                    <input class="form-control" type="file" id="formFile">
+                </div>
+            </div>
+            <button type="button" class="btn btn-primary">Kirim</button>
+        </div>
         <!--Tambahan Gabut yang lainnya-->
         <figure class="text-center">
             <blockquote class="blockquote">
@@ -187,7 +217,7 @@
             </figcaption>
         </figure>
         <audio hidden autoplay>
-            <source src="lagu.mp3" type="audio/mpeg">
+            <source src="./lagu.mp3" type="audio/mpeg">
         </audio>
         <!--Footer-->
         <div class="container-fluid bg-primary p-2">
