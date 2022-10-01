@@ -1,0 +1,26 @@
+html{
+    scroll-padding-top : 4rem;
+}
+
+.text-justify {
+    text-align: justify;
+  }
+
+h1{
+    padding-top : 1.5rem;
+}
+
+.person{
+    margin-left: 2em;
+    font-size: 2em;
+}
+
+input{
+    margin-bottom: 1em;
+}
+
+.card{
+    margin-top: 5em;
+    margin-left: 20em;
+    width: 40em;
+}
