@@ -1,5 +1,5 @@
-Nama    : Ridat Maulana
+Nama    : Muhammad Farhan Novian
 Kelas   : IF A 2020
-NPM     : 5520120016
+NPM     : 5520120017
 Fakultas: Teknik
 Jurusan : Informatika
