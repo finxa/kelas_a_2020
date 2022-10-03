@@ -1,5 +1,0 @@
-Nama    : Ridat Maulana
-Kelas   : IF A 2020
-NPM     : 5520120016
-Fakultas: Teknik
-Jurusan : Informatika
